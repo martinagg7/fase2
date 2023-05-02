@@ -1,7 +1,4 @@
 # fase2
-
-Nombre usuario:martinagg7
-
 Link repo:https://github.com/martinagg7/fase2.git
 
 
