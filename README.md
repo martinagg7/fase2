@@ -1,5 +1,7 @@
-# fase2
-Link repo:https://github.com/martinagg7/fase2.git
+# Fase2
+Link repo: https://github.com/martinagg7/fase2.git
+
+Participantes: frankiyonki, martinagg7, alejandru00, asierjunquera1.
 
 
 ## Archivos
